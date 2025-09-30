@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">project</string>
+    <string name="app_name">Moje vydavky</string>
+    <string name="add_item">Pridať výdavok</string>
+    <string name="current_date">Deň</string>
+    <string name="view_more">Zobraziť viacej</string>
+    <string name="save_expense">Uložiť výdavok</string>
+    <string name="cancel">Zrušiť</string>
+
 </resources>
